@@ -34,3 +34,7 @@ Step 3: Create a node project - Completed 8/5
 Step 4: Install Express - Completed 8/5
 Step 5: Install Mongo DB - 
 Step 6: Create a Figma Design
+Step 7: learn about using Node
+Step 8: Learn about using React 
+Step 9: learn about effienct code techinques
+Step 10: learn how to debug
