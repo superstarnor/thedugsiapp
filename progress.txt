@@ -1,0 +1,36 @@
+This is a way to help me keep track of my progress
+
+August 05,2025
+
+A simple web application that help a dugsi do the following:
+
+1. Keep track student attendance
+	With this I’m able to see who is present and missing form my class
+
+2. Keep track of student progress. 
+	It helps me understand if thye are progress or not
+3. Keep track of family payments, revenue and costs
+4. Feature where I’m able to communicate with parents and send notifications to them
+
+
+Good features to have,
+A place where they can learn they’re quran and greenbook
+Dugsi Learning Center
+Where they can learn and watch videos. A platform where they can learn more about there religion
+Keep track of progress and time spent at home. SO I know who is doing practice
+Good Onboarding process
+Families that want to join the dugsi program, can sign documents via online, take payment online. And read and watch dugsi vidoe about rules and regulation.
+
+
+MERN
+
+
+Step 1: Created the Git hub repo - Completed 8/5
+Step 2: Download React and Node.js - Completed 8/5
+    current version of react: 19.1.1
+    Node. V20.9.0
+
+Step 3: Create a node project - Completed 8/5
+Step 4: Install Express - Completed 8/5
+Step 5: Install Mongo DB - 
+Step 6: Create a Figma Design
